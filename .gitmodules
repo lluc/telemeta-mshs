@@ -1,3 +1,6 @@
 [submodule "Telemeta"]
 	path = Telemeta
 	url = https://github.com/Parisson/Telemeta.git
+[submodule "mshs-telemeta"]
+	path = mshs-telemeta
+	url = https://github.com/lluc/mshs-telemeta.git
