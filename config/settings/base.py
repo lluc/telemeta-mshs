@@ -51,12 +51,13 @@ THIRD_PARTY_APPS = [
     'crispy_forms',  # Form layouts
     'allauth',  # registration
     'allauth.account',  # registration
-    'allauth.socialaccount',  # registration
 ]
 
 # Apps specific for this project go here.
 LOCAL_APPS = [
     # Your stuff: custom apps go here
+    'mshs-telemeta',
+    #'Telemeta/telemeta',
 ]
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
