@@ -9,7 +9,7 @@ Local settings for telemeta-mshs project.
 - Add django-extensions as app
 """
 
-from .base import *  # noqa
+from base import *  # noqa
 
 # DEBUG
 # ------------------------------------------------------------------------------

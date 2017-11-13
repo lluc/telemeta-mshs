@@ -4,7 +4,7 @@ Test settings for telemeta-mshs project.
 - Used to run tests fast on the continuous integration server and locally
 """
 
-from .base import *  # noqa
+from base import *  # noqa
 
 
 # DEBUG
